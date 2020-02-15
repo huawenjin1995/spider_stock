@@ -1,0 +1,23 @@
+2020-01-09 20:05:42 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:73] begin to craw history-trade of stock:  600000
+2020-01-09 20:08:03 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:87] get history-trade success for 100 days 
+2020-01-09 20:10:06 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:87] get history-trade success for 200 days 
+2020-01-09 22:00:51 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:74] begin to craw history-trade of stock:  600000
+2020-01-09 22:00:51 [MainThread] [root] [ERROR] spider_sh_stockhistory.py[line:93] time data ' 1999-11-10' does not match format '%Y-%m-%d'
+2020-01-09 22:01:00 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:74] begin to craw history-trade of stock:  600000
+2020-01-09 22:01:47 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:74] begin to craw history-trade of stock:  600000
+2020-02-15 17:17:59 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:74] begin to craw history-trade of stock:  600000
+2020-02-15 17:18:06 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 100
+2020-02-15 17:18:14 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 200
+2020-02-15 17:18:24 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 300
+2020-02-15 17:18:30 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 400
+2020-02-15 17:18:37 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 500
+2020-02-15 17:18:46 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 600
+2020-02-15 17:18:54 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 700
+2020-02-15 17:19:00 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 800
+2020-02-15 17:19:07 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 900
+2020-02-15 17:19:15 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 1000
+2020-02-15 17:19:22 [MainThread] [root] [INFO] spider_sh_stockhistory.py[line:88] get history-trade success for 100 days 
+2020-02-15 17:19:24 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 1100
+2020-02-15 17:19:31 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 1200
+2020-02-15 17:19:37 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 1300
+2020-02-15 17:19:45 [MainThread] [root] [INFO] spider_sh_stockdetails.py[line:55] get stocks: 1400
